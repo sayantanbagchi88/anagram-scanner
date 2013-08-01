@@ -2,6 +2,7 @@
 #include<stdlib.h>
 
 #define BUFFER 1000000
+
 char* text;
 void error()
 {
