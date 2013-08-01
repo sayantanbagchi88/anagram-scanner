@@ -1,19 +1,20 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<string.h>
 
 #define BUFFER 1000000
 
 char* text;
 size_t text_len;
 
+
 struct object
 {
 	int pos;	
 	char* str;
 	int ascii_sum;
-	int ascii_prod;
 	struct object* next;
-}*DS[30];	
+}*DS[30],*filt_DS[30];	
 	
 void error()
 {
@@ -82,11 +83,12 @@ void text_process()	//Ensures all letters are converted to lowercase letters and
 	} 
 }
 
-void append_DS(int length, char* string, int pos)
+void append_object(struct object** DS, int length, char* string, int pos, int ascii_sum)
 {
 	struct object* a = malloc(sizeof(struct object));
-	a->pos=pos;
-	a->str=string;
+	a->pos = pos;
+	a->str = string;
+	a->ascii_sum = ascii_sum;
 	if(DS[length]!=NULL)
 	{
 		
@@ -110,48 +112,99 @@ void construct_DS()
 		{			
 			char *temp_string;
 			temp_string=(char *)malloc(30*sizeof(char));
-			int pos=i;			
+			int ascii_sum=0,ascii_prod=1,pos=i;			
 			while(text[i]!='$')
 			{				
 				temp_string[i-pos]=text[i];
+				ascii_sum+=(int)text[i];
 				i++;
 			}
 			temp_string[i-pos]='\0';
 			//printf("Len :%d",i-pos);
-			append_DS(i-pos,temp_string,pos);
+			append_object(DS,i-pos,temp_string,pos,ascii_sum);
 		}
 		else 
 			i++;
 	}
 }
 
-
-void print_DS()
+void print_DS(struct object ** DS)
 {
 	int i;
 	for(i=1;i<30;i++)
 	{		
 		struct object* temp = DS[i];
-		(temp!=NULL)?printf("\n"):printf("");
+		(temp!=NULL)?printf("\n"):i;
 		while(temp!=NULL)
 		{
 			print(temp->str);
+			printf("(%d),",temp->ascii_sum);
 			printf(" ");
 			temp=temp->next;
 		}
 	}
-}			
-		
+}
+			
+	
+void print_array(int* temp_array, int temp_used)
+{	int i=0;
+	while(i<temp_used){
+		printf("A%d ",temp_array[i]);
+	i++;}
 
+}
+	
+void process_DS()
+{
+	int i;
+	for(i=2;i<30;i++)
+	{
+		int* temp_array=(int *) malloc(sizeof(int)*1000);
+		int temp_used=0;		
+		struct object* obj = DS[i];
+		while(obj!=NULL)
+		{
+			int k=0,f=-1;
+			while(k<temp_used && f!=1)
+			{
+				if(temp_array[k]==obj->ascii_sum)
+					f=1;
+				k++;
+			}
+			if(f!=1)
+			{
+				temp_array[temp_used]=obj->ascii_sum;
+				append_object(filt_DS,str_len(obj->str),obj->str,obj->pos,obj->ascii_sum);
+				temp_used++;
+			}
+			obj=obj->next;
+		}
+		//print_array(temp_array,temp_used);
+		obj = DS[i];
+		while(obj!=NULL)
+		{
+			int j;
+			for(j=0;j<temp_used;j++)
+				if(temp_array[j]==obj->ascii_sum)
+					
+			obj=obj->next;
+		}		
+	}
+}
+		
 int main()
 {
 	text_scan();
-	printf("\n After initial processing :\n");	
+	printf("\n--After initial processing :\n");	
 	text_process();
 	print(text);
-	printf("\n Classified by length :\n");
 	construct_DS();
-	print_DS();
+	printf("\n--Classified by length :");
+	print_DS(DS);
+	process_DS();
+	printf("\n--Classified by ASCII sum :");
+	print_DS(filt_DS);
+	printf("\n");
 	return 1;
 }
 
