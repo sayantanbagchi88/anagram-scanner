@@ -1,2 +1,369 @@
-abed bade bead abet beats abut alerted altered related treadle tabu tuba acme came mace acre care race beat beta abets baste betas beast acres cares races scare actors costar castor actress casters recasts airmen marine remain alert alter later ales leas sale seal aligned dealing leading stab tabs
+A palliative care nurse called Bronnie Ware made a list of the biggest regrets of the dying. Her list seems plausible. I could see myself—can see myself—making at least 4 of these 5 mistakes.
+If you had to compress them into a single piece of advice, it might be: don't be a cog. The 5 regrets paint a portrait of post-industrial man, who shrinks himself into a shape that fits his circumstances, then turns dutifully till he stops.
+The alarming thing is, the mistakes that produce these regrets are all errors of omission. You forget your dreams, ignore your family, suppress your feelings, neglect your friends, and forget to be happy. Errors of omission are a particularly dangerous type of mistake, because you make them by default.I would like to avoid making these mistakes. But how do you avoid mistakes you make by default? Ideally you transform your life so it has other defaults. But it may not be possible to do that completely. As long as these mistakes happen by default, you probably have to be reminded not to make them. So I inverted the 5 regrets, yielding a list of 5 commands. Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy. which I then put at the top of the file I use as a todo list.
+I'm not a very good speaker. I say "um" a lot. Sometimes I have to pause when I lose my train of thought. I wish I were a better speaker. But I don't wish I were a better speaker like I wish I were a better writer. What I really want is to have good ideas, and that's a much bigger part of being a good writer than being a good speaker. Having good ideas is most of writing well. If you know what you're talking about, you can say it in the plainest words and you'll be perceived as having a good style. With speaking it's the opposite: having good ideas is an alarmingly small component of being a good speaker. I first noticed this at a conference several years ago. There was another speaker who was much better than me. He had all of us roaring with laughter. I seemed awkward and halting by comparison. Afterward I put my talk online like I usually do. As I was doing it I tried to imagine what a transcript of the other guy's talk would be like, and it was only then I realized he hadn't said very much.
+Maybe this would have been obvious to someone who knew more about speaking, but it was a revelation to me how much less ideas mattered in speaking than writing. A few years later I heard a talk by someone who was not merely a better speaker than me, but a famous speaker. Boy was he good. So I decided I'd pay close attention to what he said, to learn how he did it. After about ten sentences I found myself thinking "I don't want to be a good speaker." Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction. For example, when I give a talk I usually write it out beforehand. I know that's a mistake; I know delivering a prewritten talk makes it harder to engage with an audience. The way to get the attention of an audience is to give them your full attention, and when you're delivering a prewritten talk your attention is always divided between the audience and the talk—even if you've memorized it. If you want to engage an audience it's better to start with no more than an outline of what you want to say and ad lib the individual sentences. But if you do that you could spend no more time thinking about each sentence than it takes to say it. [2] Occasionally the stimulation of talking to a live audience makes you think of new things, but in general this is not going to generate ideas as well as writing does, where you can spend as long on each sentence as you want.
+If you rehearse a prewritten speech enough, you can get asymptotically close to the sort of engagement you get when speaking ad lib. Actors do. But here again there's a tradeoff between smoothness and ideas. All the time you spend practicing a talk, you could instead spend making it better. Actors don't face that temptation except in the rare cases where they've written the script, but any speaker does. Before I give a talk I can usually be found sitting in a corner somewhere with a copy printed out on paper, trying to rehearse it in my head. But I always end up spending most of the time rewriting it instead. Every talk I give ends up being given from a manuscript full of things crossed out and rewritten. Which of course makes me um even more, because I haven't had any time at all to practice the new bits.
+Depending on your audience, there are even worse tradeoffs than these. Audiences like to be flattered; they like jokes; they like to be swept off their feet by a vigorous stream of words. As you decrease the intelligence of the audience, being a good speaker is increasingly a matter of being a good bullshitter. That's true in writing too of course, but the descent is steeper with talks. Any given person is dumber as a member of an audience than as a reader. Just as a speaker ad libbing can only spend as long thinking about each sentence as it takes to say it, a person hearing a talk can only spend as long thinking about each sentence as it takes to hear it. Plus people in an audience are always affected by the reactions of those around them, and the reactions that spread from person to person in an audience are disproportionately the more brutish sort, just as low notes travel through walls better than high ones. Every audience is an incipient mob, and a good speaker uses that. Part of the reason I laughed so much at the talk bythe good speaker at that conference was that everyone else did.
+So are talks useless? They're certainly inferior to the written word as a source of ideas. But that's not all talks are good for. When I go to a talk, it's usually because I'm interested in the speaker. Listening to a talk is the closest most of us can get to having a conversation with someone like the president, who doesn't have time to meet individually with all the people who want to meet him.
+Talks are also good at motivating me to do things. It's probably no coincidence that so many famous speakers are described as motivational speakers. That may be what public speaking is really for. It's probably what it was originally for. The emotional reactions you can elicit with a talk can be a powerful force. I wish I could say that force was more often used for good than ill, but I'm not sure.
+As a child I read a book of stories about a famous judge in eighteenth century Japan called Ooka Tadasuke. One of the cases he decided was brought by the owner of a food shop. A poor student who could afford only rice was eating his rice while enjoying the delicious cooking smells coming from the food shop. The owner wanted the student to pay for the smells he was enjoying. The student was stealing his smells!
+This story often comes to mind when I hear the RIAA and MPAA accusing people of stealing music and movies.
+It sounds ridiculous to us to treat smells as property. But I can imagine scenarios in which one could charge for smells. Imagine we were living on a moon base where we had to buy air by the liter. I could imagine air suppliers adding scents at an extra charge.
+The reason it seems ridiculous to us to treat smells as property is that it wouldn't work to. It would work on a moon base, though.
+What counts as property depends on what works to treat as property. And that not only can change, but has changed. Humans may always (for some definition of human and always) have treated small items carried on one's person as property. But hunter gatherers didn't treat land, for example, as property in the way we do. [1]
+The reason so many people think of property as having a single unchanging definition is that its definition changes very slowly. [2] But we are in the midst of such a change now. The record labels and movie studios used to distribute what they made like air shipped through tubes on a moon base. But with the arrival of networks, it's as if we've moved to a planet with a breathable atmosphere. Data moves like smells now. And through a combination of wishful thinking and short-term greed, the labels and studios have put themselves in the position of the food shop owner, accusing us all of stealing their smells.
+(The reason I say short-term greed is that the underlying problem with the labels and studios is that the people who run them are driven by bonuses rather than equity. If they were driven by equity they'd be looking for ways to take advantage of technological change instead of fighting it. But building new things takes too long. Their bonuses depend on this year's revenues, and the best way to increase those is to extract more money from stuff they do already.)
+So what does this mean? Should people not be able to charge for content? There's not a single yes or no answer to that question. People should be able to charge for content when it works to charge for content.
+But by "works" I mean something more subtle than "when they can get away with it." I mean when people can charge for content without warping society in order to do it. After all, the companies selling smells on the moon base could continue to sell them on the Earth, if they lobbied successfully for laws requiring us all to continue to breathe through tubes down here too, even though we no longer needed to.
+The crazy legal measures that the labels and studios have been taking have a lot of that flavor. Newspapers and magazines are just as screwed, but they are at least declining gracefully. The RIAA and MPAA would make us breathe through tubes if they could.
+Ultimately it comes down to common sense. When you're abusing the legal system by trying to use mass lawsuits against randomly chosen people as a form of exemplary punishment, or lobbying for laws that would break the Internet if they passed, that's ipso facto evidence you're using a definition of property that doesn't work.
+This is where it's helpful to have working democracies and multiple sovereign countries. If the world had a single, autocratic government, the labels and studios could buy laws making the definition of property be whatever they wanted. But fortunately there are still some countries that are not copyright colonies of the US, and even in the US, politicians still seem to be afraid of actual voters, in sufficient numbers. [3]
+The people running the US may not like it when voters or other countries refuse to bend to their will, but ultimately it's in all our interest that there's not a single point of attack for people trying to warp the law to serve their own purposes. Private property is an extremely useful idea—arguably one of our greatest inventions. So far, each new definition of it has brought us increasing material wealth. [4] It seems reasonable to suppose the newest one will too. It would be a disaster if we all had to keep running an obsolete version just because a few powerful people were too lazy to upgrade.A year ago I noticed a pattern in the least successful startups we'd funded: they all seemed hard to talk to. It felt as if there was some kind of wall between us. I could never quite tell if they understood what I was saying.This caught my attention because earlier we'd noticed a pattern among the most successful startups, and it seemed to hinge on a different quality. We found the startups that did best were the ones with the sort of founders about whom we'd say "they can take care of themselves." The startups that do best are fire-and-forget in the sense that all you have to do is give them a lead, and they'll close it, whatever type of lead it is. When they're raising money, for example, you can do the initial intros knowing that if you wanted to you could stop thinking about it at that point. You won't have to babysit the round to make sure it happens. That type of founder is going to come back with the money; the only question is how much on what terms. It seemed odd that the outliers at the two ends of the spectrum could be detected by what appeared to be unrelated tests. You'd expect that if the founders at one end were distinguished by the presence of quality x, at the other end they'd be distinguished by lack of x. Was there some kind of inverse relation between resourcefulness and being hard to talk to?
+It turns out there is, and the key to the mystery is the old adage "a word to the wise is sufficient." Because this phrase is not only overused, but overused in an indirect way (by prepending the subject to some advice), most people who've heard it don't know what it means. What it means is that if someone is wise, all you have to do is say one word to them, and they'll understand immediately. You don't have to explain in detail; they'll chase down all the implications.
+In much the same way that all you have to do is give the right sort of founder a one line intro to a VC, and he'll chase down the money. That's the connection. Understanding all the implications—even the inconvenient implications—of what someone tells you is a subset of resourcefulness. It's conversational resourcefulness.
+Like real world resourcefulness, conversational resourcefulness often means doing things you don't want to. Chasing down all the implications of what's said to you can sometimes lead to uncomfortable conclusions. The best word to describe the failure to do so is probably "denial," though that seems a bit too narrow. A better way to describe the situation would be to say that the unsuccessful founders had the sort of conservatism that comes from weakness. They traversed idea space as gingerly as a very old person traverses the physical world. [1]
+The unsuccessful founders weren't stupid. Intellectually they were as capable as the successful founders of following all the implications of what one said to them. They just weren't eager to. So being hard to talk to was not what was killing the unsuccessful startups. It was a sign of an underlying lack of resourcefulness. That's what was killing them. As well as failing to chase down the implications of what was said to them, the unsuccessful founders would also fail to chase down funding, and users, and sources of new ideas. But the most immediate evidence I had that something was amiss was that I couldn't talk to them.
+There are great startup ideas lying around unexploited right under our noses. One reason we don't see them is a phenomenon I call schlep blindness. Schlep was originally a Yiddish word but has passed into general use in the US. It means a tedious, unpleasant task.
+No one likes schleps, but hackers especially dislike them. Most hackers who start startups wish they could do it by just writing some clever software, putting it on a server somewhere, and watching the money roll in—without ever having to talk to users, or negotiate with other companies, or deal with other people's broken code. Maybe that's possible, but I haven't seen it.
+One of the many things we do at Y Combinator is teach hackers about the inevitability of schleps. No, you can't start a startup by just writing code. I remember going through this realization myself. There was a point in 1995 when I was still trying to convince myself I could start a company by just writing code. But I soon learned from experience that schleps are not merely inevitable, but pretty much what business consists of. A company is defined by the schleps it will undertake. And schleps should be dealt with the same way you'd deal with a cold swimming pool: just jump in. Which is not to say you should seek out unpleasant work per se, but that you should never shrink from it if it's on the path to something great.
+The most dangerous thing about our dislike of schleps is that much of it is unconscious. Your unconscious won't even let you see ideas that involve painful schleps. That's schlep blindness.
+The phenomenon isn't limited to startups. Most people don't consciously decide not to be in as good physical shape as Olympic athletes, for example. Their unconscious mind decides for them, shrinking from the work involved.
+The most striking example I know of schlep blindness is Stripe, or rather Stripe's idea. For over a decade, every hacker who'd ever had to process payments online knew how painful the experience was. Thousands of people must have known about this problem. And yet when they started startups, they decided to build recipe sites, or aggregators for local events. Why? Why work on problems few care much about and no one will pay for, when you could fix one of the most important components of the world's infrastructure? Because schlep blindness prevented people from even considering the idea of fixing payments.
+Probably no one who applied to Y Combinator to work on a recipe site began by asking "should we fix payments, or build a recipe site?" and chose the recipe site. Though the idea of fixing payments was right there in plain sight, they never saw it, because their unconscious mind shrank from the complications involved. You'd have to make deals with banks. How do you do that? Plus you're moving money, so you're going to have to deal with fraud, and people trying to break into your servers. Plus there are probably all sorts of regulations to comply with. It's a lot more intimidating to start a startup like this than a recipe site.
+That scariness makes ambitious ideas doubly valuable. In addition to their intrinsic value, they're like undervalued stocks in the sense that there's less demand for them among founders. If you pick an ambitious idea, you'll have less competition, because everyone else will have been frightened off by the challenges involved. (This is also true of starting a startup generally.)
+How do you overcome schlep blindness? Frankly, the most valuable antidote to schlep blindness is probably ignorance. Most successful founders would probably say that if they'd known when they were starting their company about the obstacles they'd have to overcome, they might never have started it. Maybe that's one reason the most successful startups of all so often have young founders.
+In practice the founders grow with the problems. But no one seems able to foresee that, not even older, more experienced founders. So the reason younger founders have an advantage is that they make two mistakes that cancel each other out. They don't know how much they can grow, but they also don't know how much they'll need to. Older founders only make the first mistake.
+Ignorance can't solve everything though. Some ideas so obviously entail alarming schleps that anyone can see them. How do you see ideas like that? The trick I recommend is to take yourself out of the picture. Instead of asking "what problem should I solve?" ask "what problem do I wish someone else would solve for me?" If someone who had to process payments before Stripe had tried asking that, Stripe would have been one of the first things they wished for.
+It's too late now to be Stripe, but there's plenty still broken in the world, if you know how to see it.
+Skip to search.
+
+    New User? Register
+    Sign In
+    Help
+
+Get new Yahoo! Mail apps
+
+     
+    Mail
+    My Y!
+    Yahoo!
+
+Yahoo! India Finance
+Search 	
+
+    Home
+    Investing
+    News
+    Video
+    Photos
+    Markets Live
+    Personal Finance
+    My Portfolios
+    Archive
+    Blogs
+
+Search for share prices
+
+Fri 2 Aug, 2013, 10:18 AM IST - India Markets close in 5 hrs 42 mins
+DON'T MISS
+Brent tops $110 first time since April on robust economic data
+ReutersReuters – 22 minutes ago
+Must Read Features »
+
+    Spotting the Trapdoors
+    At Regular Intervals
+    Deduct Tax When Buying a House
+    Investment Genius Looks Back
+    The Real Desktop
+
+More »
+
+By Jessica Jaganathan
+
+SINGAPORE (Reuters) - Brent crude futures climbed above $110 a barrel for the first time since early April on Friday, as upbeat economic data raised the prospects for better global oil demand amid supply disruptions in Africa and Iraq.
+
+U.S. manufacturing grew in July at its fastest pace in two years, while a China industrial index beat expectations this week. European factories also snapped two years of output declines, suggesting a euro zone recession may be near its end.
+
+A commitment to easy monetary policy by European central banks and the Federal Reserve also boosted oil prices.
+
+Brent crude oil futures had gained 42 cents to $109.96 a barrel by 0411 GMT, after earlier hitting $110.09, its highest since April 3. Brent is track to rise 2.6 percent on the week after two weeks of losses.
+
+U.S. crude oil futures rose 68 cents to $108.57, heading for a 3.7 percent increase for the week.
+
+"A lot of people are expecting the quantitative easing to continue for longer than expected, so money is still going into the oil markets," said Ken Hasegawa, a commodity sales manager at Newedge Japan.
+
+But with global inventories adequate, he added, oil prices are unlikely to remain strong.
+
+The European Central Bank and the Bank of England on Thursday left their interest rates at record lows, a day after the Federal Reserve said the U.S. economy still needed its support and made no mention of changes to its stimulus measures.
+
+Any pullback on the Fed's easy money policies could boost the dollar and drag on assets denominated in the currency.
+
+Investors are waiting for a U.S. employment report due later in the day that is expected to show the jobless rate near its lowest level in more than four years, which could strengthen demand from the world's top oil consumer.
+
+Data on Thursday showed U.S. factory activity hitting a two-year high in July and first-time applications for jobless benefits hit a 5-1/2-year low last week.
+
+Brent's premium over West Texas Intermediate narrowed to $1.40 a barrel as the positive data and the Fed comments pushed up the U.S. crude oil prices.
+
+"A lot of money has now seemed to have come to the U.S. crude market and I suspect some short covering is happening," said Hasegawa.
+
+SUPPLY DISRUPTIONS
+
+Concern over supply disruptions in Libya, Iraq and Nigeria also underpinned prices. The disruptions helped trim OPEC output to a four-month low in July, according to a Reuters survey published on Wednesday.
+
+OPEC output averaged 30.25 million barrels per day (bpd), down from 30.38 million bpd in June, the survey found.
+
+Iraq's production has come under pressure as Sunni insurgents target its northern pipeline, while technical problems are curbing output in the south.
+
+Europe's biggest oil company, Royal Dutch Shell (RDSa.L), said on Thursday that a surge in oil thefts in Nigeria contributed to a lower second-quarter profit.
+
+(Editing by Tom Hogue)
+Banks will be closed on these days
+Gallery
+Quick guide: Bank holidays in August 2013
+
+Do you know when your banks will be closed for business this year? These dates are observed as public holidays in India.(Source: Reserve Bank of India)(Note: This list does not include Sundays and som…
+CHECK THIS VIDEO: Maruti's new offering
+
+Maruti's new offering
+Most expensive cities for business travellers
+Gallery
+Most expensive cities for business travellers
+
+International business travel is often a necessary part of remaining globally competitive, but paying for transportation, lodging, dining and entertainment can be expensive for companies. A recent rep…
+MARKET MOVERS
+
+    Most Actives
+    Most Actives Name	Price	Change	% Chg	
+    Financial  …
+    	153.35	-38.40	-20.03%		
+    FINTECH.BO
+    Jaiprakash …
+    	31.75	-0.70	-2.16%		
+    JAIPRA.BO
+    Reliance C …
+    	126.65	-4.75	-3.61%		
+    RCOM.BO
+    Unitech In …
+    	15.70	-0.20	-1.26%		
+    UNITECH.BO
+    FRL
+    	80.45	+6.05	+8.13%		
+    FRL.BO
+    More Most Actives »
+    Price % Gainers
+    Price % Gainers Name	Price	Change	% Chg	
+    P.L.ENTERP …
+    	965.00	+916.75	+1900.00%		
+    PLENTER.BO
+    OLYMPIA IN …
+    	47.14	+30.64	+185.70%		
+    OLYMPTX.BO
+    YES BANK
+    	470.00	+142.35	+43.45%		
+    YESBANKSL.BO
+    FRL
+    	95.70	+21.30	+28.63%		
+    FRLSL.BO
+    Mathew Eas …
+    	39.45	+6.55	+19.91%		
+    MATHEWE.BO
+    More Price % Gainers »
+    Price % Losers
+    Price % Losers Name	Price	Change	% Chg	
+    Extol Comm …
+    		-36.00	-100.00%		
+    EXTCO.BO
+    MCX LTD
+    	409.65	-102.40	-20.00%		
+    MCX.BO
+    Financial  …
+    	153.35	-38.40	-20.03%		
+    FINTECH.BO
+    Power Grid …
+    	89.85	-13.10	-12.72%		
+    POWERGRID.BO
+    TECHNO ELE
+    	71.00	-8.20	-10.35%		
+    TECHNOE.BO
+    More Price % Losers »
+
+Latest from Hindustan Times »
+
+    Get ready for more frequent hikes in …
+    Indian back-office firms specialise …
+    NSEL suspends trading; govt, regulators …
+    Who will replace RBI governor Subba …
+    BPOs are booming
+
+Best of New York Times »
+
+    Millennials, in Their Parents’ Base …
+    Sadly, Too Big to Fail Is Not Over
+    China Reports Increase in Manufactu …
+    Banks’ Focus on Recovery Is Miring Europe’s …
+    Over a Million Are Denied Bank Accounts …
+
+Best of Investopedia »
+
+    Income, Value and Growth Stocks
+    Understanding Leverage Ratios
+    How To Break Your Bad Financial Hab …
+    Introduction to Treasury Securities
+    Leverage: What It Is And How It Wor …
+
+Latest News
+
+    Brent tops $110 first time since April on robust economic data
+    Get ready for more frequent hikes in rail fares now
+    FTIL slumps for second day, down as much as 45 percent
+    Rupee weaker, bond yields rise on strong U.S. data
+    Gold heads for biggest weekly loss in a month
+    Retailers gain as govt eases foreign investment rules
+    Asian shares buoyed by U.S. data, accommodative central banks
+    Cheap food plan falls short on scope, quality
+
+More
+BEST OF FORBES »
+
+    Why Hating China Is Futile
+    Macau Is 'Vegas On Steroids'
+    Motorola Moto X 'Solid Android Competitor,' …
+    Ex-Goldmanite 'Fabulous Fab' Tourre …
+    China Won't Kill Housing, Says Delo …
+
+BEST OF BUSINESS INSIDER »
+
+    Oracle Lands In More Hot Water Over …
+    The West Is On The Rise
+    GOLDMAN: 3 Reasons Tomorrow's Jobs Report …
+    Motorola Is Trying To Erase The Sex …
+    Check Out Amazon's Look-a-Like Pinterest …
+
+Best of Entrepreneur »
+
+    Publicis Omnicom and the Tricky Business …
+    Sheryl Sandberg Encourages Women Bloggers …
+    For Employers, Obamacare Penalties  …
+    Feel This: Disney Wants to Bring Virtual …
+    How Big Businesses Slash Taxes With …
+
+Search for share prices
+MARKET COMMENTARY
+SLIDESHOWS
+1 - 4 of 25
+BUSINESS VIDEOS
+1 - 4 of 12
+
+    Recent Quotes
+    Portfolios
+
+    Recent Quotes Symbol 	Price 	Change 	% Chg	Chart	 	
+    Your most recently viewed tickers will automatically show up here if you type a ticker in the "Enter symbol/company" at the bottom of this module.
+    Search for share prices
+    Recent Quotes News
+
+STORIES OUR READERS LOVED THE MOST
+
+    Who will replace RBI governor Subbarao?
+    Financial Tech shares slump, exchange unit halts forward trading
+    Should You Trust Your Instincts On Gold?
+    The Workplace Toolkit: 5 Essentials You Need to Succeed
+    Yes Bank first to raise rates after RBI's rupee moves
+    IOC to raise petrol, diesel prices from Thursday
+    5 Financial Decisions That Sound Smart But Are Really Dumb
+    India defends rupee amid gathering economic gloom
+
+MORE TO READ FROM OUR PROVIDERS
+
+    ANI
+    BankBazaar.com
+    Business Insider
+    Contify Banking
+    Contify Investment
+    DailyFX
+    Entrepreneur
+    Financial Times
+    Forbes
+    Hindustan Times
+    IANS
+
+    India Today Group
+    Investopedia
+    Kiplinger
+    MoneyWorks4me.com
+    Morningstar
+    New York Times
+    PersonalFN
+    Reuters
+    US News
+    Yahoo Finance India
+
+Yahoo! Cricket
+
+    Team flag for England vs. Team flag for AustraliaAUSENG
+    LIVE
+    3rd Test
+    AUS 303/3 (90 Overs)
+    Manchester, England
+    live match AUS 303/3 (90 Overs)
+
+On This Site
+
+    Home
+    Investing
+    News
+    Video
+    Photos
+
+    Markets Live
+    Personal Finance
+    My Portfolios
+    Archive
+    Blogs
+
+Also On Yahoo!
+
+    Cricket
+    Bollywood
+    Breaking News
+    Read Our Blog
+
+    Buzz
+    Jagran
+    Answers
+    Mail
+
+    Lifestyle
+    Weather forecast
+    Mobile
+
+All Yahoo! Services »
+Trending Now
+
+    Andhra Bandh
+    IPL Chargesheet
+    AR Rahman Tour
+    IAS Durga
+    Thalaivar Lungi Dance
+
+    B.A. Pass
+    2014 Indian GP
+    Gorkhaland Demand
+    Shahzad Ahmed convicted
+    Mamnoon Hussain
+
+Copyright © 2013 Reuters Limited. All rights reserved. Republication or redistribution of Reuters content is expressly prohibited without the prior written consent of Reuters. Reuters shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+Copyright © 2013 Yahoo India Pvt. Ltd. All rights reserved.
+
+    Help / Suggestions
+    Privacy Policy
+    Terms of Service
+    Copyright/IP Policy
+
+Quotes are real-time for NASDAQ, NYSE, and NYSEAmex when available. See also delay times for other exchanges. Quotes and other information supplied by independent providers identified on the Yahoo! Finance partner page. Quotes are updated automatically, but will be turned off after 25 minutes of inactivity. Quotes are delayed at least 15 minutes. All information provided "as is" for informational purposes only, not intended for trading purposes or advice. Neither Yahoo! nor any of independent providers is liable for any informational errors, incompleteness, or delays, or for any actions taken in reliance on information contained herein. By accessing the Yahoo! site, you agree not to redistribute the information found therein.
+
+Fundamental company data provided by Capital IQ. Historical chart data and daily updates provided by Commodity Systems, Inc. (CSI). International historical chart data and daily updates provided by Morningstar, Inc.
+
+Yahoo! - News Network
 

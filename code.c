@@ -189,7 +189,7 @@ int rip_single_words(struct object *a)
 		if(b->flag==-1)
 		{
 			if(b==a)
-				return -1;
+				a=b->next;
 			else
 				n->next=b->next;
 			b=b->next;
