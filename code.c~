@@ -40,7 +40,7 @@ void text_scan()
 
 int str_copy(char* a, char* b)
 {
-	int i=0;
+	int i = 0;
 	while(b[i]!='\0')
 	{
 		a[i]=b[i];
@@ -51,13 +51,12 @@ int str_copy(char* a, char* b)
 
 void print(char* array)
 {
-	int i=0;
+	int i = 0;
 	while(array[i]!='\0')
 	{
 		printf("%c",array[i]);
 		i++;
 	}
-	//printf("\n");
 	
 }
 
@@ -116,7 +115,6 @@ void append_object(struct object** DS, int length, char* string, int pos, int as
 		DS[length]=a;
 		DS[length]->next=NULL;
 	}
-	//free(a);	
 }
 
 void construct_DS()
