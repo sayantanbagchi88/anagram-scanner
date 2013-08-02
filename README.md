@@ -1,4 +1,9 @@
 anagram-scanner
 ===============
-This repository consists of code and the executable files of an anagram scanner built for large input files. The "code.c" achieves the scan using hash tables.
-The "fsm_simul.c" tries to speed up the process by simulating finite state machines for scanning in O(n) time.
+This repository consists of the code and the executable files of an anagram scanner built for large input files. 
+Two approaches have been used for acheiving fast scanning of large text bodies.
+-> Using regular string scanning methods and Hash tables (code.c)
+-> Using Finite State Machine simulation. [Will be much faster than the latter, hopefully in O(n) time] (fsm_simul.c)
+
+
+
