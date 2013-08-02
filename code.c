@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#define BUFFER 100000000
+#define BUFFER 10000000
 
 char* text;
 size_t text_len;
@@ -40,7 +40,7 @@ void text_scan()
 
 int str_copy(char* a, char* b)
 {
-	int i=0;
+	int i = 0;
 	while(b[i]!='\0')
 	{
 		a[i]=b[i];
@@ -51,13 +51,12 @@ int str_copy(char* a, char* b)
 
 void print(char* array)
 {
-	int i=0;
+	int i = 0;
 	while(array[i]!='\0')
 	{
 		printf("%c",array[i]);
 		i++;
 	}
-	//printf("\n");
 	
 }
 
@@ -116,7 +115,6 @@ void append_object(struct object** DS, int length, char* string, int pos, int as
 		DS[length]=a;
 		DS[length]->next=NULL;
 	}
-	//free(a);	
 }
 
 void construct_DS()
@@ -175,9 +173,9 @@ int isadded_str(struct object* a,char* string,int ascii_sum)		//Checks for a wor
 	while(b!=NULL)
 	{
 		if(str_compare(b->str,string)==1)
-			ret_val=1;
+			ret_val = 1;
 		if(b->ascii_sum==ascii_sum)
-			b->flag=1;
+			b->flag = 1;
 		b = b->next;
 	}
 	return ret_val;
@@ -198,8 +196,8 @@ int rip_single_words(struct object *a)
 		}
 		else
 		{
-			n=b;
-			b=b->next;
+			n = b;
+			b = b->next;
 		}
 	return 0;
 }
@@ -224,7 +222,6 @@ void construct_filt_DS()
 			if(f!=1)
 			{
 				temp_array[temp_used] = obj->ascii_sum;
-				//printf(" %s ",obj->str);
 				append_object(filt_DS,str_len(obj->str),obj->str,obj->pos,obj->ascii_sum,f);
 				temp_used++;
 			}
@@ -234,8 +231,6 @@ void construct_filt_DS()
 			obj=obj->next;
 		}
 		rip_single_words(filt_DS[i]);
-		//filt_DS[i] = (rip_single_words(filt_DS[i])==-1)?NULL:filt_DS[i];
-		//print_array(temp_array,temp_used);		
 	}
 }
 
