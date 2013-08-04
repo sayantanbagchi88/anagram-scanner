@@ -45,12 +45,13 @@ int str_compare(char* a, char*b)
 	int i = 0;
 	while(a[i]!='\0' && b[i]!='\0')
 	{		
-		if(a[i]!=b[i])
+		if(a[i]!=b[i]) 
 			return 0;
-		else 
-			i++;
+		else if(a[i+1]=='\0' && b[i+1]=='\0')
+			return 1;
+		i++;			
 	}
-	return 1;
+	return 0;
 }
 
 void print(char* array)
