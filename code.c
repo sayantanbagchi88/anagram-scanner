@@ -89,6 +89,8 @@ void text_process()
 		if(!(ascii >=97 && ascii <=122))
 			if(ascii>=65 && ascii <=90)
 				text[i]+=32;
+			else if(ascii>=48 && ascii <=57)
+				{}
 			else
 				text[i]='$';
 		i++;
@@ -281,6 +283,25 @@ void anagram_scan()
 	}				
 				
 }				
+
+void bubble_sort(struct object **array,int n)
+{
+	struct object *swap;
+	int c,d;
+	for(c=0;c<(n-1);c++)
+	{
+    		for(d=0;d<n-c-1;d++)
+    		{
+			if(array[d]!=NULL && array[d+1]!=NULL)
+	      			if(array[d]->pos > array[d+1]->pos)
+	      			{
+					swap = array[d];
+					array[d] = array[d+1];
+					array[d+1] = swap;
+	      			}
+    		}
+  	}
+}
 		
 int main()
 {
@@ -293,8 +314,9 @@ int main()
 	//print_hash_tab(hash_tab);
 	construct_refined_hash_tab();
 	//printf("\n--Classified by ASCII sum :");
-	print_hash_tab(refined_hash_tab);
-	printf("\n--Anagram scanner results :");
+	bubble_sort(refined_hash_tab,30);
+	//print_hash_tab(refined_hash_tab);
+	//printf("\n--Anagram scanner results :");
 	anagram_scan();
 	return 1;
 }
