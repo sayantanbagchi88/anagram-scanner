@@ -143,15 +143,15 @@ void construct_hash_tab()
 void print_hash_tab(struct object ** hash_tab)
 {
 	int i;
-	for(i=1;i<30;i++)
+	for(i=2;i<30;i++)
 	{		
-		printf("[%d]",i);		
+				
 		struct object* temp = hash_tab[i];
-		(temp!=NULL)?printf("\n"):i;
+		(temp!=NULL)?printf("\n[%d]",i):i;
 		while(temp!=NULL)
 		{
 			printf(temp->str);
-			printf("(%d),",temp->ascii_sum);
+			printf("(%d)(%d),",temp->ascii_sum,temp->flag);
 			printf(" ");
 			temp=temp->next;
 		}
@@ -173,25 +173,25 @@ int isadded_str(struct object* a,char* string,int ascii_sum)
 	return ret_val;
 }
 
-int rip_sword_hash_tab(struct object *a)
+struct object* rip_sword_hash_tab(struct object *a)
 {
 	struct object *b = (struct object *)malloc(sizeof(struct object)), *n;
 	b=a;
 	while(b!=NULL)
+	{
 		if(b->flag==-1)
-		{
 			if(b==a)
-				a=b->next;
+			{ 	a = b->next;
+				n = b;
+			}
 			else
-				n->next=b->next;
-			b=b->next;
-		}
+				n->next=b->next; 
+			
 		else
-		{
 			n = b;
-			b = b->next;
-		}
-	return 0;
+		b = b->next;
+	}
+	return a;
 }
 	
 void construct_refined_hash_tab()
@@ -222,7 +222,7 @@ void construct_refined_hash_tab()
 					append_object(refined_hash_tab,str_len(obj->str),obj->str,obj->pos,obj->ascii_sum,f);
 			obj=obj->next;
 		}
-		rip_sword_hash_tab(refined_hash_tab[i]);
+		refined_hash_tab[i] = rip_sword_hash_tab(refined_hash_tab[i]);
 	}
 }
 
