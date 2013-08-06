@@ -151,7 +151,7 @@ void print_hash_tab(struct object ** hash_tab)
 		while(temp!=NULL)
 		{
 			printf(temp->str);
-			printf("(%d)(%d),",temp->ascii_sum,temp->flag);
+			printf("(%d){%d},",temp->ascii_sum,temp->pos);
 			printf(" ");
 			temp=temp->next;
 		}
@@ -176,7 +176,7 @@ int isadded_str(struct object* a,char* string,int ascii_sum)
 struct object* rip_sword_hash_tab(struct object *a)
 {
 	struct object *b = (struct object *)malloc(sizeof(struct object)), *n;
-	b=a;
+	b = a;
 	while(b!=NULL)
 	{
 		if(b->flag==-1)
@@ -185,18 +185,18 @@ struct object* rip_sword_hash_tab(struct object *a)
 				n = b;
 			}
 			else
-				n->next=b->next; 
+				n->next = b->next; 
 			
 		else
 			n = b;
 		b = b->next;
-	}
+ 	}
 	return a;
 }
 	
 void construct_refined_hash_tab()
 {
-	int i=2;
+	int i;
 	for(i=2;i<30;i++)
 	{
 		int* temp_array  = (int *) malloc(sizeof(int)*10000);
@@ -248,7 +248,7 @@ int is_anagram(char *a, char *b)
 void anagram_scan()
 {
 	int i;
-	for(i=2;i<30;i++)
+	for(i=2;refined_hash_tab[i]!=NULL && i<30;i++)
 	{
 		
 		while(refined_hash_tab[i]!=NULL)
@@ -259,11 +259,25 @@ void anagram_scan()
 			{
 								
 				if(is_anagram(pre->str,obj->str))
-					printf(" %s-%s \n",pre->str,obj->str);
+				{
+					if(pre->flag!=2)
+					{
+						printf(" %s",pre->str);
+						pre->flag = 2;
+					}					
+					if(obj->flag!=2)
+					{
+						printf(" %s",obj->str);
+						obj->flag = 2;
+					}
+				}
 				obj = obj->next;
 			}
+			
 			refined_hash_tab[i] = refined_hash_tab[i]->next;
 		}
+	printf("\n");
+		
 	}				
 				
 }				
@@ -271,14 +285,14 @@ void anagram_scan()
 int main()
 {
 	text_scan();
-	printf("\n--After initial processing :\n");	
+	//printf("\n--After initial processing :\n");	
 	text_process();
-	print(text);
+	//print(text);
 	construct_hash_tab();
-	printf("\n--Classified by length :");
-	print_hash_tab(hash_tab);
+	//printf("\n--Classified by length :");
+	//print_hash_tab(hash_tab);
 	construct_refined_hash_tab();
-	printf("\n--Classified by ASCII sum :");
+	//printf("\n--Classified by ASCII sum :");
 	print_hash_tab(refined_hash_tab);
 	printf("\n--Anagram scanner results :");
 	anagram_scan();
